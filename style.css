@@ -89,13 +89,13 @@
     align-items: center;
     gap: 4px;
   }
-  currency {
+  .currency {
     
     color:rgba(119, 119, 119, 1);
     font-size: 14px;
   }
 
-  currency-value {
+  .currency-value, .currency-value-to-convert {
     
     color:rgba(85, 85, 85, 1);
     font-size: 20px;
